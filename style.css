@@ -21,7 +21,7 @@ a{
 /*ID styling section*/
 #header{
     position: fixed;
-    background-color:#ffffff;
+    background-color:white;
     opacity: 0.8;
     box-sizing: border-box;
     width: 100%;
